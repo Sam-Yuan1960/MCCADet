@@ -1,2 +1,2 @@
-# MCCANet
-The source files of MCCANet.
+# MCCADet
+The source files of MCCADet.
